@@ -1,6 +1,7 @@
 🛒 Optimización de Ingresos: 
 
 Análisis de Hipótesis y Pruebas A/B:
+
 Este proyecto se enfoca en la toma de decisiones basada en datos para una tienda en línea. El proceso abarca desde la priorización estratégica de experimentos hasta el análisis riguroso de un test A/B para maximizar el impacto en el negocio.
 
 🎯 Objetivos del Proyecto
